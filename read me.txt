@@ -1,3 +1,8 @@
-you can run the app
-and go to port 8080
-and writing enlish to laos lenguach
+
+ນຳສະເໜີ ໂດຍ ທ ນູຊົ່າວ ເຮີ ແລະ ພະບຸນຄ່ຳ ຫ້ອງ 2cw1
+
+Project ນີ້ໃຊ້ vscode ເປັນເຄື່ອງມືໃນການຂຽນ
+ຖ້າທ່ານຕ້ອງການ run this projeect ສາມາດກົດ run ໃນ vscode ໄດ້ເລີຍ
+ຫຼື່ທ່ານບໍ່ຕ້ອງການ run ມີພຽນແຕ່ ໄປເປີດ youtube ຕາມລິ້ງດ້ານລຸ່ມນີ້:
+https://youtu.be/LgE3oLtBOQE
+
